@@ -1,0 +1,14 @@
+C:\Users\Freddy\Downloads\building-api-aspdotnet-core\07\demos\m6\after\bin\Release\netcoreapp2.2\CoreCodeCamp.deps.json
+C:\Users\Freddy\Downloads\building-api-aspdotnet-core\07\demos\m6\after\bin\Release\netcoreapp2.2\CoreCodeCamp.runtimeconfig.json
+C:\Users\Freddy\Downloads\building-api-aspdotnet-core\07\demos\m6\after\bin\Release\netcoreapp2.2\CoreCodeCamp.runtimeconfig.dev.json
+C:\Users\Freddy\Downloads\building-api-aspdotnet-core\07\demos\m6\after\bin\Release\netcoreapp2.2\CoreCodeCamp.dll
+C:\Users\Freddy\Downloads\building-api-aspdotnet-core\07\demos\m6\after\bin\Release\netcoreapp2.2\CoreCodeCamp.pdb
+C:\Users\Freddy\Downloads\building-api-aspdotnet-core\07\demos\m6\after\obj\Release\netcoreapp2.2\CoreCodeCamp.csprojAssemblyReference.cache
+C:\Users\Freddy\Downloads\building-api-aspdotnet-core\07\demos\m6\after\obj\Release\netcoreapp2.2\CoreCodeCamp.csproj.CoreCompileInputs.cache
+C:\Users\Freddy\Downloads\building-api-aspdotnet-core\07\demos\m6\after\obj\Release\netcoreapp2.2\CoreCodeCamp.RazorAssemblyInfo.cache
+C:\Users\Freddy\Downloads\building-api-aspdotnet-core\07\demos\m6\after\obj\Release\netcoreapp2.2\CoreCodeCamp.RazorAssemblyInfo.cs
+C:\Users\Freddy\Downloads\building-api-aspdotnet-core\07\demos\m6\after\obj\Release\netcoreapp2.2\CoreCodeCamp.AssemblyInfoInputs.cache
+C:\Users\Freddy\Downloads\building-api-aspdotnet-core\07\demos\m6\after\obj\Release\netcoreapp2.2\CoreCodeCamp.AssemblyInfo.cs
+C:\Users\Freddy\Downloads\building-api-aspdotnet-core\07\demos\m6\after\obj\Release\netcoreapp2.2\CoreCodeCamp.RazorTargetAssemblyInfo.cache
+C:\Users\Freddy\Downloads\building-api-aspdotnet-core\07\demos\m6\after\obj\Release\netcoreapp2.2\CoreCodeCamp.dll
+C:\Users\Freddy\Downloads\building-api-aspdotnet-core\07\demos\m6\after\obj\Release\netcoreapp2.2\CoreCodeCamp.pdb

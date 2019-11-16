@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAL2V+KOc9z0aAJDKTuyTfjgAAAAACAAAAAAAQZgAAAAEAACAAAAC08YgkdorfxMSeXec2QSJwWe7B6bNh0AGq8Ne8SYwNaQAAAAAOgAAAAAIAACAAAAC48EAWgAbwoPE/5iStdz9bSNwZObmieZ0DlB8lVR54rIAAAABS+Nx/b9I2DRjvYApXJ22FwRHUL5DkIirHsasiHTUKvef9CPulFcZAc8Q4ceA4v8YN26e2CimBbIg5w5VeFqkxK/bdoQAzdUPNwWQQ2RSOt9ZYVmZs05BYgl/RYUAQM6PgJw9VQIN6lxbOF+WyMS7eczRcY40+GO8IIUUd8MagRUAAAAD9h8uvHBpyIWIWJC9ialv81L8Bg8al3Hm7QveyFdgJth/4rsj7+S7BVMplUd1nRaRMFCuvkMSZIY8AI8oPeSH/</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="CodeCamp">
+      <Value>Data Source=tcp:corecodecamp20191116111110dbserver.database.windows.net,1433%3bInitial Catalog=CoreCodeCampNew_db%3bUser Id=freddyhm%40corecodecamp20191116111110dbserver%3bPassword=Fhmsme18!!!</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="CoreCodeCamp.Data.CampContext">
+      <Value>Data Source=tcp:corecodecamp20191116111110dbserver.database.windows.net,1433%3bInitial Catalog=CoreCodeCampNew_db%3bUser Id=freddyhm%40corecodecamp20191116111110dbserver%3bPassword=Fhmsme18!!!</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

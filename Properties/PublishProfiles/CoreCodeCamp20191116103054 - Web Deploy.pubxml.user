@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAL2V+KOc9z0aAJDKTuyTfjgAAAAACAAAAAAAQZgAAAAEAACAAAADFpPk2xqyuw+gvXw7YuIz8ESxNE4C+X65i7+YSjOEg7gAAAAAOgAAAAAIAACAAAACPU12Nu+ANFGvmWiKpPMZNXeMHNpyvpCvj2H6mqKEO24AAAADEOClmOZJ0RR9JEv5H0Tij/MvAXkGsGjbXLDBTPMZ/Mp/bfMrW9kXf5Dtd2CIJNNAkK5Q65kw4+003TzjggQXWP2UBSGKFvJp/3d/GQcx/a9Up0hGjkh2lLF5jR0HqLptGRg2x/qiDG7B1h6qjYg81dgxbLZcr15a8ai2AZl2G8EAAAABvgNUvksKng8fqkxmnpq5PoVz38ZNNbZaDMpmvsEmn6lnuL7wmYKyEDWXyNaStj+t0I9Ec7P1ZSHkeKoSwcXb2</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="CodeCamp">
+      <Value>Data Source=tcp:core-code-camp-demo-db-server.database.windows.net,1433%3bInitial Catalog=core-code-camp-demo-db%3bPersist Security Info=False%3bUser ID=freddyhm%3bPassword=Fhmsme18!!!%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
